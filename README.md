@@ -1,0 +1,2 @@
+# 5-Techniques-to-Handle-Imbalanced-Data-For-a-Classification-Problem
+If you have already dealt with classification problems, you must have faced instances where one of the target class labels’ numbers of observation is significantly lower than other class labels. This type of dataset is called an imbalanced class dataset which is very common in practical classification scenarios.In this article, I’ll discuss the imbalanced dataset, the problem regarding its prediction, and how to deal with such data more efficiently than the traditional approach.
